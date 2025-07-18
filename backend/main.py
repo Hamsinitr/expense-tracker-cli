@@ -8,31 +8,25 @@ from collections import defaultdict
 
 app = FastAPI()
 
-# ✅ Use local path since expenses.json is in the same folder as main.py
 DATA_FILE = os.path.join(os.path.dirname(__file__), "expenses.json")
 
-# Pydantic model for validation
 class Expense(BaseModel):
     amount: float
     category: str
-    date: str  # ISO format string like "2025-07-01 12:45:00"
+    date: str  
     description: str = ""
 
-# Load all expenses
 def load_expenses():
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, "r") as f:
             return json.load(f)
     return []
 
-# Save a new expense
 def save_expense(new_expense):
     expenses = load_expenses()
     expenses.append(new_expense)
     with open(DATA_FILE, "w") as f:
         json.dump(expenses, f, indent=2)
-
-# Routes
 
 @app.get("/")
 def home():
