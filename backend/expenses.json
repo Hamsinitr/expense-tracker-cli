@@ -1,0 +1,164 @@
+[
+  {
+    "amount": 120,
+    "category": "food",
+    "date": "2025-07-01 12:45:00"
+  },
+  {
+    "amount": 80,
+    "category": "transport",
+    "date": "2025-07-01 08:30:00"
+  },
+  {
+    "amount": 300,
+    "category": "shopping",
+    "date": "2025-07-01 15:00:00"
+  },
+  {
+    "amount": 200,
+    "category": "entertainment",
+    "date": "2025-07-02 18:30:00"
+  },
+  {
+    "amount": 75,
+    "category": "food",
+    "date": "2025-07-02 13:00:00"
+  },
+  {
+    "amount": 50,
+    "category": "transport",
+    "date": "2025-07-02 08:00:00"
+  },
+  {
+    "amount": 450,
+    "category": "rent",
+    "date": "2025-07-03 09:00:00"
+  },
+  {
+    "amount": 95,
+    "category": "food",
+    "date": "2025-07-03 12:30:00"
+  },
+  {
+    "amount": 65,
+    "category": "transport",
+    "date": "2025-07-03 07:45:00"
+  },
+  {
+    "amount": 220,
+    "category": "utilities",
+    "date": "2025-07-03 19:00:00"
+  },
+  {
+    "amount": 180,
+    "category": "entertainment",
+    "date": "2025-07-04 20:00:00"
+  },
+  {
+    "amount": 60,
+    "category": "food",
+    "date": "2025-07-04 13:15:00"
+  },
+  {
+    "amount": 90,
+    "category": "transport",
+    "date": "2025-07-04 08:20:00"
+  },
+  {
+    "amount": 110,
+    "category": "shopping",
+    "date": "2025-07-05 14:00:00"
+  },
+  {
+    "amount": 320,
+    "category": "rent",
+    "date": "2025-07-05 09:00:00"
+  },
+  {
+    "amount": 140,
+    "category": "utilities",
+    "date": "2025-07-05 18:00:00"
+  },
+  {
+    "amount": 105,
+    "category": "food",
+    "date": "2025-07-06 12:40:00"
+  },
+  {
+    "amount": 70,
+    "category": "transport",
+    "date": "2025-07-06 07:50:00"
+  },
+  {
+    "amount": 250,
+    "category": "shopping",
+    "date": "2025-07-06 16:00:00"
+  },
+  {
+    "amount": 190,
+    "category": "entertainment",
+    "date": "2025-07-06 21:00:00"
+  },
+  {
+    "amount": 180,
+    "category": "utilities",
+    "date": "2025-07-07 18:30:00"
+  },
+  {
+    "amount": 85,
+    "category": "food",
+    "date": "2025-07-07 13:00:00"
+  },
+  {
+    "amount": 60,
+    "category": "transport",
+    "date": "2025-07-07 08:15:00"
+  },
+  {
+    "amount": 450,
+    "category": "rent",
+    "date": "2025-07-07 10:00:00"
+  },
+  {
+    "amount": 100,
+    "category": "shopping",
+    "date": "2025-07-08 15:30:00"
+  },
+  {
+    "amount": 210,
+    "category": "entertainment",
+    "date": "2025-07-08 19:30:00"
+  },
+  {
+    "amount": 55,
+    "category": "food",
+    "date": "2025-07-08 12:00:00"
+  },
+  {
+    "amount": 45,
+    "category": "transport",
+    "date": "2025-07-08 07:30:00"
+  },
+  {
+    "amount": 160,
+    "category": "utilities",
+    "date": "2025-07-08 17:45:00"
+  },
+  {
+    "amount": 350,
+    "category": "rent",
+    "date": "2025-07-08 10:30:00"
+  },
+  {
+    "amount": 123.0,
+    "category": "books",
+    "date": "2025-07-09 10:30:00",
+    "description": "bought textbook"
+  },
+  {
+    "amount": 123.0,
+    "category": "books",
+    "date": "2025-07-09 10:30:00",
+    "description": "bought textbook"
+  }
+]
