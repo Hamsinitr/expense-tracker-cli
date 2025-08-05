@@ -16,7 +16,6 @@ This project allows you to:
 Test and explore the API locally using these auto-generated docs:
 
 - [🔹 Swagger UI (Interactive API)](http://127.0.0.1:8000/docs)
-- [🔸 Redoc UI (Clean Reference View)](http://127.0.0.1:8000/redoc)
 
 ---
 
