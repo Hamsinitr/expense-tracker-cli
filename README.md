@@ -11,7 +11,7 @@ This project allows you to:
 
 ---
 
-## 📘 API Documentation
+## API Documentation
 
 Test and explore the API locally using these auto-generated docs:
 
